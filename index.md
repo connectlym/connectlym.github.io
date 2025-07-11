@@ -1,21 +1,31 @@
 # Yunmeng Li （李云蒙）
+
+Hometown: Beijing, China.
+
 Special Assistant Professor 
 
 at [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/), Tohoku University.
 
 (2025.4 ~ now)
 
-Hometown: Beijing, China.
-
 ## Contact
+
 E-mail: yunmeng.li.a7 (at) tohoku.ac.jp
 (Old email: li.yunmeng.r1 at dc.tohoku.ac.jp)
 
 ## Research fields
+
 Natural Language Processing, Machine Translation, Chat Translation, Chat Translation Error Detection, Dialogue and Conversation, and Crowdsourcing.
 
 ## Recent publications
+
 ### International Conference
+
+Diana Galvan-Sosa, Gabrielle Gaudeau, Pride Kavumba, Yunmeng Li, Hongyi Gu, Zheng Yuan, Keisuke Sakaguchi, and Paula Buttery. **Rubrik's Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset**. In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)_, pages -, July 2025. 
+[[ACL]]
+[[PDF]]
+[[arXiv]](https://arxiv.org/abs/2503.23899)
+
 Yunmeng Li, Jun Suzuki, Makoto Morishita, Kaori Abe, and Kentaro Inui. 2025. **MQM-Chat: Multidimensional Quality Metrics for Chat Translation**. In _Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)_, pages 3283–3299, Abu Dhabi, UAE. Association for Computational Linguistics.
 [[ACL]](https://aclanthology.org/2025.coling-main.221/)
 [[PDF]](https://aclanthology.org/2025.coling-main.221.pdf)
